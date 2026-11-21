@@ -1,6 +1,7 @@
 # 🎓 Smart AI Study & Exam Prep Hub
 
 🚀 **Live Web App:** https://smart-study-ai-assistant-vivekanand.streamlit.app
+Android apk link :**https://drive.google.com/file/d/12-nJE6pUEqGUO5en_heQFplE6wW9Q_1B/view?usp=sharing
 
 Built by **Vivekanand Pandey** (1st Year B.Tech IT, Haldia Institute of Technology) for the **Global AI Hackathon**.
 
